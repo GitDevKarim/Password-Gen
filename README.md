@@ -1,4 +1,4 @@
 # Password-Gen
 ```diff
--A very simple project first done when to expirment with JS/HTML/CSS 
+-A very simple project done to expirment with JS/HTML/CSS 
 ```
